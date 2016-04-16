@@ -1,0 +1,3150 @@
+b93a953 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+1705254 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+c1ceebb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+510d922 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 9 deletions(-)
+3410ce7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 84 insertions(+), 62 deletions(-)
+bde2034 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 11 insertions(+), 7 deletions(-)
+52e4736 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+b2a8cba -- Greenkeeper -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ec9438e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+cdd0fbe -- A.S. Douno -- aboubacar.douno@gn.ehealthafrica.org
+
+ 1 file changed, 357 insertions(+), 30 deletions(-)
+5b7dab6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+e04a16a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 64 insertions(+), 1 deletion(-)
+f74a9f3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 21 insertions(+), 7 deletions(-)
+8bfb172 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+5f4505d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 186 insertions(+), 151 deletions(-)
+537f763 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 57 insertions(+), 2 deletions(-)
+e182cad -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 29 files changed, 745 insertions(+), 138 deletions(-)
+86056fe -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 6 insertions(+)
+8d4a431 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 8 insertions(+), 6 deletions(-)
+12f2b2c -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+2288ab7 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+c33490f -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+1f7a1ed -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+6faa593 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+af00f1d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 12 files changed, 129 insertions(+), 43 deletions(-)
+013266d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 32 files changed, 585 insertions(+), 372 deletions(-)
+5bc4f0e -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 10 insertions(+)
+a3fc972 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 19 insertions(+), 2 deletions(-)
+0801ce9 -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 208 insertions(+), 203 deletions(-)
+222c16e -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 4 insertions(+)
+6b03405 -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 60 insertions(+), 48 deletions(-)
+054687b -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 27 insertions(+), 16 deletions(-)
+9fdf58b -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 30 insertions(+), 8 deletions(-)
+434facf -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 90 insertions(+), 40 deletions(-)
+0a29040 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 302 insertions(+), 2 deletions(-)
+26d4c52 -- Darin Swanson -- dswanson@newrelic.com
+
+ 7 files changed, 2 insertions(+), 15 deletions(-)
+57d347e -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 14 insertions(+), 14 deletions(-)
+9288a82 -- James-Mac -- james@aehr.org
+
+ 11 files changed, 82 insertions(+), 36 deletions(-)
+2363bfb -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 7 insertions(+), 13 deletions(-)
+d7a71e0 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 53 insertions(+), 50 deletions(-)
+cf66753 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+c5d597c -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 52 insertions(+), 81 deletions(-)
+70bafb4 -- Joel Glovier -- jglovier@github.com
+
+ 7 files changed, 70 insertions(+), 56 deletions(-)
+d7018d0 -- Joel Glovier -- jglovier@github.com
+
+ 10 files changed, 11 insertions(+), 19 deletions(-)
+df8697c -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+ce128ad -- pete_the_pete -- pliljegr@gmail.com
+
+ 1 file changed, 10 insertions(+)
+d06a457 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+4c9dbac -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+beac4f4 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+)
+cd54fc7 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 6 deletions(-)
+cd18980 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 18 insertions(+), 3 deletions(-)
+abefee2 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 26 insertions(+)
+c99331c -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 3 insertions(+)
+7f1718e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 54 insertions(+), 57 deletions(-)
+cda3698 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 25 insertions(+), 881 deletions(-)
+db4e77f -- Darin Swanson -- dswanson@newrelic.com
+
+ 10 files changed, 7 insertions(+), 90 deletions(-)
+0e45e7b -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+8caada0 -- Joel Glovier -- jglovier@github.com
+
+ 8 files changed, 228 insertions(+), 233 deletions(-)
+ec291b4 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+17c471d -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+6663fda -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 59 deletions(-)
+e3c814b -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 27 insertions(+), 22 deletions(-)
+d1e07b4 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+)
+4da40bf -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 338 insertions(+), 441 deletions(-)
+dd23359 -- Darin Swanson -- dswanson@newrelic.com
+
+ 3 files changed, 9 insertions(+), 87 deletions(-)
+868d5b0 -- Darin Swanson -- dswanson@newrelic.com
+
+ 6 files changed, 118 insertions(+)
+1aa358e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 7 deletions(-)
+b64a373 -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 3 insertions(+)
+a5d9a50 -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+773daa0 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 76 insertions(+), 71 deletions(-)
+37b2f49 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 19 insertions(+), 18 deletions(-)
+b755d62 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 8 insertions(+), 7 deletions(-)
+3122aca -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+f5fb033 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 105 insertions(+), 43 deletions(-)
+e3f1b96 -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 247 insertions(+)
+a9fdb19 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 8 insertions(+), 5 deletions(-)
+ca3d5f7 -- Darin Swanson -- dswanson@newrelic.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+e9dd2fc -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 9 insertions(+)
+3c5c7a2 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+88a74c5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+a0f1341 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 30 insertions(+), 30 deletions(-)
+b74ddb5 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 9 insertions(+)
+f297773 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 9 insertions(+)
+2a64b90 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+a0c29a6 -- Darin Swanson -- dswanson@newrelic.com
+
+ 1 file changed, 1 insertion(+)
+6bbfbb7 -- Darin Swanson -- dswanson@newrelic.com
+
+ 2 files changed, 6 insertions(+), 6 deletions(-)
+c25ec71 -- Mitch Ellis -- mellisdesigns@gmail.com
+
+ 11 files changed, 73 insertions(+), 39 deletions(-)
+0b3f41e -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+62a678a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+4de1592 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+)
+4baadfd -- douno -- douno30@gmail.com
+
+ 1 file changed, 260 insertions(+)
+c8c3601 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+a3f09e3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+fbde124 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 19 insertions(+), 14 deletions(-)
+6f3cf29 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+da24dd8 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+374c1d1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+8d6b0c2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 124 insertions(+), 101 deletions(-)
+0bbb2a2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+c3c4bde -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+624047e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 77 insertions(+), 59 deletions(-)
+373f405 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 24 insertions(+), 27 deletions(-)
+2750ac8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 206 insertions(+), 3 deletions(-)
+27b36ea -- Alex Pelan -- alexpelan@gmail.com
+
+ 14 files changed, 141 insertions(+), 68 deletions(-)
+a5fcfeb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 183 insertions(+), 183 deletions(-)
+e3df4c7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 14 files changed, 160 insertions(+), 74 deletions(-)
+0de4ec4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 81 insertions(+), 10 deletions(-)
+68ad0df -- Abdullah EKE -- abdheke@gmail.com
+
+ 1 file changed, 82 insertions(+)
+6ec35f0 -- Konstantin Azizov -- azizovkostya97@gmail.com
+
+ 1 file changed, 82 insertions(+)
+fff6ceb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 14 files changed, 13610 insertions(+), 119 deletions(-)
+a90d132 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 38 insertions(+), 187 deletions(-)
+d9a795e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 25 files changed, 128 insertions(+), 124 deletions(-)
+5c0a6aa -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+)
+9d42a55 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+b5d1339 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 39 insertions(+), 50 deletions(-)
+a79051b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 6 insertions(+), 4 deletions(-)
+6b15652 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+435eebd -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+3ca6630 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 90 insertions(+), 27 deletions(-)
+2bcf8a2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 5 insertions(+), 11 deletions(-)
+e9efbf3 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ab3cade -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 142 insertions(+), 75 deletions(-)
+47e886d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 45 insertions(+), 6 deletions(-)
+9ff09dd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 107 deletions(-)
+185fd90 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+9c25f93 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 82 insertions(+), 82 deletions(-)
+9f0364b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 18 insertions(+), 14 deletions(-)
+f830775 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 10 insertions(+), 9 deletions(-)
+6893aff -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+71140e1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+8b6a26d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 106 deletions(-)
+b32d9d0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 19 insertions(+), 21 deletions(-)
+6169197 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+), 3 deletions(-)
+f185df1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 28 deletions(-)
+7d3a93a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 82 insertions(+)
+d89b4ca -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+d594226 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+9be5f08 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 164 insertions(+), 22 deletions(-)
+2451ba4 -- Alex Pelan -- alexpelan@gmail.com
+
+ 14 files changed, 115 insertions(+), 44 deletions(-)
+83338dd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+cb7ebb0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 41 insertions(+), 10 deletions(-)
+309a295 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+28cda6e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 125 insertions(+), 124 deletions(-)
+1244e71 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+9583a4d -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+8f6a40c -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 20 insertions(+), 19 deletions(-)
+93aab40 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 80 insertions(+), 1 deletion(-)
+ef465af -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 31 insertions(+), 14 deletions(-)
+4ffca28 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 77 insertions(+), 80 deletions(-)
+7a75d3b -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 8 insertions(+), 14 deletions(-)
+d7b3f36 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+26b90f8 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 15 insertions(+)
+d6cb59d -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+d78ba43 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 24 insertions(+), 4 deletions(-)
+5adaeb1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 36 insertions(+), 33 deletions(-)
+35b3d0e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 26 insertions(+), 8 deletions(-)
+e682df7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+62eecd7 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+22d026b -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+1a1bdd5 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+6e53fa9 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+32b64ee -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+cee4a95 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 39 files changed, 170 insertions(+), 118 deletions(-)
+acb8640 -- simonhfrost -- simonhfrost@gmail.com
+
+ 1 file changed, 1 insertion(+)
+6adac3e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+65ee653 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+592e5c6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 40 insertions(+), 13 deletions(-)
+5f17623 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+87de10f -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+d39d664 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+e46e08c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+85058c2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 8 insertions(+), 16 deletions(-)
+6754d71 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+)
+d341cc5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+c8121fe -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 6 insertions(+), 13 deletions(-)
+33d6f38 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 deletion(-)
+9d9cfad -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 17 insertions(+), 10 deletions(-)
+832626b -- Alex Pelan -- alexpelan@gmail.com
+
+ 5 files changed, 36 insertions(+), 2 deletions(-)
+6acadef -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 107 insertions(+), 108 deletions(-)
+aff2b0d -- Marek Fajkus -- marek.faj@gmail.com
+
+ 3 files changed, 51 insertions(+), 32 deletions(-)
+1002b22 -- Marek Fajkus -- marek.faj@gmail.com
+
+ 2 files changed, 34 insertions(+), 19 deletions(-)
+9b72967 -- Marek Fajkus -- marek.faj@gmail.com
+
+ 5 files changed, 105 insertions(+), 270 deletions(-)
+fe580f8 -- Marek Fajkus -- marek.faj@gmail.com
+
+ 4 files changed, 274 insertions(+), 34 deletions(-)
+77256ae -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 12 files changed, 171 insertions(+), 16 deletions(-)
+3a8164c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+edf0884 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+4093afe -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+3b5ddd2 -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+bd3343f -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ff514c9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+77520e6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+7cfff54 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 46 deletions(-)
+38053a6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+bab42c3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 217 insertions(+), 215 deletions(-)
+967fac1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+e338d60 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+0979503 -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+27185db -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+8138b12 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+a750bbc -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+de1de13 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+dd4b016 -- greenkeeperio-bot -- support@greenkeeper.io
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+a87b960 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 28 insertions(+), 34 deletions(-)
+e202ae9 -- Marek Fajkus -- marek.faj@gmail.com
+
+ 4 files changed, 28 insertions(+), 28 deletions(-)
+4e9933e -- Marek Fajkus -- marek.faj@gmail.com
+
+ 8 files changed, 63 insertions(+), 9 deletions(-)
+c5afa0a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 9 insertions(+), 8 deletions(-)
+278f44e -- Mitchell Cash -- mitchell.cash@gmail.com
+
+ 2 files changed, 6 insertions(+), 2 deletions(-)
+6c1a6b8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+), 5 deletions(-)
+2df7b20 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 3 insertions(+), 13 deletions(-)
+f6ffe54 -- simonhfrost -- simonhfrost@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+3276827 -- simonhfrost -- simonhfrost@gmail.com
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+98bb915 -- Rich Churcher -- rich.churcher@gmail.com
+
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+07a4bc8 -- Rich Churcher -- rich.churcher@gmail.com
+
+ 1 file changed, 9 insertions(+), 5 deletions(-)
+ab345e0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 49 insertions(+), 51 deletions(-)
+de358fd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 14 files changed, 133 insertions(+), 134679 deletions(-)
+483f46e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 24 insertions(+), 15 deletions(-)
+cc39790 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+aae59c8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 4 deletions(-)
+1642739 -- Simon Frost -- simonhfrost@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+a092688 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 21 files changed, 90 insertions(+), 65 deletions(-)
+5a5f985 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 51 insertions(+), 33 deletions(-)
+ac5a420 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 42 insertions(+), 37 deletions(-)
+c1039c8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 16 files changed, 983 insertions(+), 981 deletions(-)
+ee32276 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 14 files changed, 64 insertions(+), 65 deletions(-)
+141e7ff -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+25d855c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 21 insertions(+), 3 deletions(-)
+b877d83 -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 8 insertions(+)
+37caaf9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+8ea8eec -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 44 insertions(+), 6 deletions(-)
+be6ad2c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+e72abdb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 45 insertions(+), 28 deletions(-)
+bd40f1e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 118 insertions(+), 18 deletions(-)
+8f55871 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+897fc40 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+f1a66af -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+2b6055a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 3 insertions(+), 2 deletions(-)
+a4cbe83 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+9a00190 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 165 insertions(+), 34 deletions(-)
+73414f1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+f0567ab -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 151 insertions(+), 6 deletions(-)
+0c48b88 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+8c8f26c -- John Kleinschmidt -- jk@cure.org
+
+ 5 files changed, 98 insertions(+), 8 deletions(-)
+6fc0a99 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ee248e2 -- John Kleinschmidt -- jk@cure.org
+
+ 4 files changed, 104 insertions(+), 3 deletions(-)
+cfcd5d5 -- John Kleinschmidt -- jk@cure.org
+
+ 1 file changed, 3 insertions(+)
+1ff3a6f -- John Kleinschmidt -- jk@cure.org
+
+ 3 files changed, 166 insertions(+), 8 deletions(-)
+0d7cde2 -- John Kleinschmidt -- jk@cure.org
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+1f7bb15 -- John Kleinschmidt -- jk@cure.org
+
+ 3 files changed, 13 insertions(+), 64 deletions(-)
+a191a8c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 20 deletions(-)
+8752ed1 -- John Kleinschmidt -- jk@cure.org
+
+ 3 files changed, 111 insertions(+), 4 deletions(-)
+d1eca0f -- John Kleinschmidt -- jk@cure.org
+
+ 3 files changed, 168 insertions(+), 8 deletions(-)
+2d2f89c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 12 files changed, 71 insertions(+), 21 deletions(-)
+4d7a300 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 21 files changed, 52 insertions(+), 56 deletions(-)
+e14e621 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+73b4e3f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 8 insertions(+), 8 deletions(-)
+b6459fc -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+b610e1f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+a755eba -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 47 insertions(+), 43 deletions(-)
+e43fde4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 76 insertions(+), 38 deletions(-)
+62b83ec -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 19 insertions(+), 29 deletions(-)
+61d746a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 260 insertions(+), 23 deletions(-)
+b616308 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 103 insertions(+), 108 deletions(-)
+5a60565 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 31 insertions(+), 34 deletions(-)
+99e0637 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+2e0c1bf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 21 insertions(+), 20 deletions(-)
+c421401 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 2 insertions(+)
+27a7bb9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 28 insertions(+), 26 deletions(-)
+83cd47c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+20b325f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 123 insertions(+), 5 deletions(-)
+1ff3b5d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 50 insertions(+), 52 deletions(-)
+e837a3b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 26 insertions(+), 22 deletions(-)
+0162a3a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 5 deletions(-)
+9e86648 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+5d17a1c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+d95ac79 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+437af42 -- tangollama -- tangollama@gmail.com
+
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+1abe88b -- tangollama -- tangollama@gmail.com
+
+ 2 files changed, 23 insertions(+), 23 deletions(-)
+7b0070d -- tangollama -- tangollama@gmail.com
+
+ 2 files changed, 4 deletions(-)
+fac4fb2 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+dee722c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 24 files changed, 221 insertions(+), 331 deletions(-)
+6259d85 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+), 5 deletions(-)
+00a9620 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 68 insertions(+), 8 deletions(-)
+cb3186e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 37 insertions(+), 36 deletions(-)
+0d46bf0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+2c93038 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 22 insertions(+), 22 deletions(-)
+21f3432 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+6e625a8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 11 insertions(+), 12 deletions(-)
+ab25a7f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+6ab74cb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 45 insertions(+), 46 deletions(-)
+3fbc4e7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 deletions(-)
+2d44d97 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 84 insertions(+), 50 deletions(-)
+15b0273 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 13 files changed, 68 insertions(+), 80 deletions(-)
+e688e37 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 10 insertions(+), 10 deletions(-)
+dde85b8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 13 files changed, 75 insertions(+), 72 deletions(-)
+e79efa4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 13 insertions(+), 13 deletions(-)
+ad6eebb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 38 files changed, 40 insertions(+), 40 deletions(-)
+4902323 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+364a876 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+9ab38d3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 119 insertions(+), 90 deletions(-)
+1c1a199 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 40 files changed, 1700 insertions(+), 1625 deletions(-)
+114d0b5 -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+863596a -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+86b9cea -- Joel Worrall -- tangollama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+6ddaad0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+6c7f404 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+628be5a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 17 insertions(+), 17 deletions(-)
+bf7bf6f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 12 insertions(+), 12 deletions(-)
+4aa8b50 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+e3540a7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+c9f2277 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+94970c6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 91 insertions(+), 97 deletions(-)
+ccbae9d -- zinyando -- brizdigital@gmail.com
+
+ 12 files changed, 113 insertions(+), 107 deletions(-)
+8a4d6b6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+6e4cc96 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+51b306b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+), 5 deletions(-)
+d9777ef -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 72 files changed, 464 insertions(+), 278 deletions(-)
+34ed4a7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+), 7 deletions(-)
+209cdaf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 12 insertions(+), 19 deletions(-)
+8312661 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+d097ac1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 20 insertions(+), 20 deletions(-)
+21e976b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 152 insertions(+), 153 deletions(-)
+6225a0c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 44 files changed, 455 insertions(+), 477 deletions(-)
+49af6a2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 16 insertions(+), 18 deletions(-)
+58398e5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+8e34e95 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 65 insertions(+), 26 deletions(-)
+2c45fb0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+5a47305 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+08bbb98 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+9536c32 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+8d81f93 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 12 insertions(+), 17 deletions(-)
+6513e57 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 22 deletions(-)
+a372ba8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 5 insertions(+), 4 deletions(-)
+1117fd6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 18 insertions(+), 22 deletions(-)
+d02bd90 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 10 insertions(+), 2 deletions(-)
+a9d4ba9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+37226b1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 6 deletions(-)
+0016456 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+d121369 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 235 files changed, 1741 insertions(+), 1736 deletions(-)
+eef8334 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+8edbdd4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+48bd0db -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 87 insertions(+), 106 deletions(-)
+84f127d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 22 files changed, 66 insertions(+), 61 deletions(-)
+04bce57 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+)
+8f48fae -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 64 insertions(+), 39 deletions(-)
+3dd64c5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+), 4 deletions(-)
+4fecfc3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 5 deletions(-)
+5e0cc57 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 19 insertions(+), 22 deletions(-)
+3fdea6f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+67330ab -- Taras Mankovski -- tarasm@gmail.com
+
+ 356 files changed, 15193 insertions(+), 15230 deletions(-)
+0296429 -- zinyando -- brizdigital@gmail.com
+
+ 18 files changed, 340 insertions(+), 167 deletions(-)
+afa9f2f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+e2bb97d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 103 insertions(+), 65 deletions(-)
+2ec60a5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 10 insertions(+), 21 deletions(-)
+18bad4e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 19 insertions(+)
+017bed1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 15 insertions(+)
+4d28e3e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 7 deletions(-)
+2446afe -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 153 insertions(+), 240 deletions(-)
+1453595 -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 1 insertion(+)
+c11c1e7 -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 1 insertion(+)
+2931ef6 -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 2 deletions(-)
+0deb9dd -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 1 deletion(-)
+79626ee -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 3 deletions(-)
+d5aa37d -- Taras Mankovski -- tarasm@gmail.com
+
+ 3 files changed, 109 deletions(-)
+7fbbcb9 -- Taras Mankovski -- tarasm@gmail.com
+
+ 4 files changed, 12 insertions(+), 16 deletions(-)
+0e3998d -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+88b54d2 -- Taras Mankovski -- tarasm@gmail.com
+
+ 5 files changed, 26 insertions(+), 7 deletions(-)
+2e278d5 -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 26 insertions(+), 1 deletion(-)
+65b478b -- Taras Mankovski -- tarasm@gmail.com
+
+ 6 files changed, 133 insertions(+), 99 deletions(-)
+f0df66f -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 3 deletions(-)
+e74206e -- Taras Mankovski -- tarasm@gmail.com
+
+ 2 files changed, 23 insertions(+), 22 deletions(-)
+0bed38c -- Taras Mankovski -- tarasm@gmail.com
+
+ 1 file changed, 3 insertions(+)
+c51679e -- Taras Mankovski -- tarasm@gmail.com
+
+ 14 files changed, 255 insertions(+), 116 deletions(-)
+e1b3758 -- Taras Mankovski -- tarasm@gmail.com
+
+ 21 files changed, 690 insertions(+), 744 deletions(-)
+13cf5ae -- Taras Mankovski -- tarasm@gmail.com
+
+ 3 files changed, 107 deletions(-)
+a5c4f58 -- Taras Mankovski -- tarasm@gmail.com
+
+ 2 files changed, 125 insertions(+)
+a8e00fb -- Taras Mankovski -- tarasm@gmail.com
+
+ 8 files changed, 222 insertions(+), 175 deletions(-)
+da10d08 -- Taras Mankovski -- tarasm@gmail.com
+
+ 7 files changed, 116 insertions(+), 1 deletion(-)
+8426db8 -- Taras Mankovski -- tarasm@gmail.com
+
+ 5 files changed, 40 insertions(+), 3 deletions(-)
+1733a1d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 53 deletions(-)
+7858724 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+dbbb886 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 11 deletions(-)
+0518804 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+e996b7d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+1b34e65 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 9 insertions(+), 9 deletions(-)
+3c202ed -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 6 insertions(+), 4 deletions(-)
+1abb480 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 485 deletions(-)
+e4c1fe7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 6 deletions(-)
+36b8f3b -- billybonks -- sebastienstettler@gmail.com
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+b22ccbd -- billybonks -- sebastienstettler@gmail.com
+
+ 16 files changed, 85 insertions(+), 86 deletions(-)
+607d864 -- billybonks -- sebastienstettler@gmail.com
+
+ 18 files changed, 28 insertions(+), 28 deletions(-)
+8659cd3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 18 insertions(+)
+4c2a866 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 105 insertions(+), 88 deletions(-)
+d1b26df -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 deletions(-)
+988db3d -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+d67d963 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 156 insertions(+), 95 deletions(-)
+d2e8e79 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 20 insertions(+), 21 deletions(-)
+0c1eec5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 63 insertions(+), 56 deletions(-)
+b55617e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+96ffad6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 10 insertions(+), 7 deletions(-)
+728e162 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 12 deletions(-)
+b150376 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 40 insertions(+), 42 deletions(-)
+a267f61 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 2 deletions(-)
+3bf0df7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 18 insertions(+), 53 deletions(-)
+a43b507 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 19 insertions(+), 63 deletions(-)
+7f3a5f7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 15 insertions(+), 15 deletions(-)
+f94af7f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 100 insertions(+), 124 deletions(-)
+475f92a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+f885a35 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 27 insertions(+), 37 deletions(-)
+38541cb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 10 insertions(+), 8 deletions(-)
+acbde7b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+fa12c8d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 13 insertions(+), 5 deletions(-)
+eecd3f8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 17 insertions(+), 36 deletions(-)
+f8a2c5a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+a9aa21f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 7 deletions(-)
+0d962f8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 10 insertions(+), 3 deletions(-)
+e19f0fc -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 37 insertions(+), 33 deletions(-)
+3626473 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+e6b647b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 10 insertions(+), 8 deletions(-)
+454fa0a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+5472efc -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 17 insertions(+), 13 deletions(-)
+adf03bc -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 12 deletions(-)
+53a5be5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+2e365c4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 16 insertions(+), 5 deletions(-)
+bba4913 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+e34807b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 5 insertions(+), 6 deletions(-)
+c8b6be0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 52 insertions(+), 55 deletions(-)
+d40ba67 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 75 insertions(+), 49 deletions(-)
+a73788a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+7184b04 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+3f4dec9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 2233 insertions(+), 12 deletions(-)
+673e07a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 132493 insertions(+), 188 deletions(-)
+904956c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 5 insertions(+), 5 deletions(-)
+1100f64 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 28 insertions(+), 3 deletions(-)
+34858ee -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 34 insertions(+), 12 deletions(-)
+cff7caf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 13 insertions(+), 5 deletions(-)
+73a0138 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+), 15 deletions(-)
+0a999f4 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 2 insertions(+), 16 deletions(-)
+bb4cfe6 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ad366c2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 56 insertions(+), 58 deletions(-)
+6674568 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 206 insertions(+), 125 deletions(-)
+1174c14 -- tangollama -- tangollama@gmail.com
+
+ 2 files changed, 160 insertions(+), 11 deletions(-)
+1f58083 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 13 deletions(-)
+0f2e6cf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 11 insertions(+), 11 deletions(-)
+cffdbb0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 13 insertions(+), 15 deletions(-)
+6876d2f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 3 insertions(+), 6 deletions(-)
+344abf2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 19 insertions(+), 19 deletions(-)
+aa079ea -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 11 insertions(+), 11 deletions(-)
+2590937 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+bae6441 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 17 deletions(-)
+99caf96 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 16 insertions(+), 18 deletions(-)
+1494395 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+d7021eb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 17 deletions(-)
+d8ebb5f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 19 insertions(+), 19 deletions(-)
+1dc1c73 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 17 insertions(+), 36 deletions(-)
+6ee1d1d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+)
+568ca25 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 66 insertions(+), 70 deletions(-)
+3e5963f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 19 insertions(+), 9 deletions(-)
+08f5cd3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+85eb65d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 10 deletions(-)
+c5aa802 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 25 deletions(-)
+2331bf4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 15 files changed, 31 insertions(+), 31 deletions(-)
+b7f8dcf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+)
+4cf9bc7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 57 insertions(+), 37 deletions(-)
+5e201c8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 9 insertions(+), 2 deletions(-)
+a09ba7d -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 28 insertions(+), 1 deletion(-)
+92b12f1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 32 insertions(+), 22 deletions(-)
+41e41de -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+bcf042c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 27 insertions(+), 14 deletions(-)
+069d310 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+71d5d75 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 38 insertions(+), 67 deletions(-)
+4c4c92e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 45 insertions(+), 87 deletions(-)
+b670823 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+2b4c1d6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 26 insertions(+), 22 deletions(-)
+d6c3365 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 17 insertions(+), 3 deletions(-)
+d2de602 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+0eaf099 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 55 insertions(+), 93 deletions(-)
+73063de -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+b2a3903 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+e087900 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 25 insertions(+), 18 deletions(-)
+b8ac9ea -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 18 insertions(+)
+73b1d31 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 17 files changed, 53 insertions(+), 50 deletions(-)
+49a96a7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 19 insertions(+), 19 deletions(-)
+4120aa1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 17 deletions(-)
+6a97cda -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 85 insertions(+), 79 deletions(-)
+58b1182 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 73 insertions(+), 34 deletions(-)
+55a2470 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 14 insertions(+), 16 deletions(-)
+6857b4c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 5 insertions(+), 8 deletions(-)
+6374d73 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 deletions(-)
+e73870a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 41 insertions(+), 75 deletions(-)
+413634e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 10 deletions(-)
+0af8c76 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 24 insertions(+), 3 deletions(-)
+2881c35 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+4049c63 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+877cc2b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+cf446e1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 486 insertions(+)
+44e8e7f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+e6536c8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 20 insertions(+), 59 deletions(-)
+0d15509 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 32 insertions(+), 46 deletions(-)
+8fae72c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+dffa513 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 26 insertions(+), 18 deletions(-)
+4b875cd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 40 insertions(+), 41 deletions(-)
+c58fbd5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 5 deletions(-)
+f0b6f18 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 31 files changed, 467 insertions(+), 470 deletions(-)
+616e986 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 28 insertions(+), 22 deletions(-)
+f716460 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 45 insertions(+), 45 deletions(-)
+e755ac5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 25 insertions(+), 63 deletions(-)
+0aff11b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 13 insertions(+), 11 deletions(-)
+8717f4c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 38 insertions(+), 35 deletions(-)
+ecc9b49 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 deletions(-)
+8165ea1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+f0eff08 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 19 insertions(+), 5 deletions(-)
+99f1b1b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+e74f97a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+74e7068 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+0f68848 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+52f0e48 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+c12fce6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 11 insertions(+), 12 deletions(-)
+c696cfe -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+6ad6bbf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 13 insertions(+), 17 deletions(-)
+8f045b8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+e2f427d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 78 files changed, 695 insertions(+), 831 deletions(-)
+7fdb3f7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 174 insertions(+), 134 deletions(-)
+14d0f8d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 20 insertions(+)
+6caff27 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 30 insertions(+), 18 deletions(-)
+59dc06d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 1 deletion(-)
+62bd339 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 234 insertions(+), 200 deletions(-)
+35225e0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 126 insertions(+), 29 deletions(-)
+e2f356d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 17 insertions(+)
+a2c212c -- Nate Good -- codecounselor@gmail.com
+
+ 2 files changed, 43 insertions(+), 12 deletions(-)
+fcd80f7 -- tangollama -- tangollama@gmail.com
+
+ 2 files changed, 16 insertions(+), 7 deletions(-)
+067b652 -- tangollama -- tangollama@gmail.com
+
+ 3 files changed, 13 insertions(+), 2 deletions(-)
+752c7c2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 114 insertions(+), 57 deletions(-)
+c8aa727 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+9d79b71 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+), 4 deletions(-)
+ba2b98a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 16 insertions(+), 14 deletions(-)
+b3a1946 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+0e40c78 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 15 insertions(+), 1 deletion(-)
+add0325 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 20 insertions(+), 7 deletions(-)
+2da91f0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+01d95c7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 22 insertions(+)
+353e2df -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 47 insertions(+), 29 deletions(-)
+3267a89 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+14b6053 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+f26705f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 3 insertions(+)
+f9fe5fe -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+36f644c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 44 insertions(+), 30 deletions(-)
+cb284aa -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 99 insertions(+), 37 deletions(-)
+ca046d1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 26 insertions(+), 3 deletions(-)
+c17380c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 79 insertions(+), 24 deletions(-)
+64fbed0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 138 insertions(+), 25 deletions(-)
+9e06380 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 43 insertions(+), 35 deletions(-)
+1b735f4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+66b4005 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 11 insertions(+), 20 deletions(-)
+31ce852 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+5858795 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+ef50a75 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 26 insertions(+)
+d6e3189 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 52 insertions(+), 70 deletions(-)
+d33dee3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 188 insertions(+), 46 deletions(-)
+d257850 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+)
+139710c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+7f4e331 -- Nate Good -- codecounselor@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+cdc5f56 -- tangollama -- tangollama@gmail.com
+
+ 3 files changed, 13 insertions(+)
+3885f03 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 3 insertions(+)
+733520b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+b80031d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+bde7a7b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 19 insertions(+), 7 deletions(-)
+23b1d92 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+84b91ac -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 12 insertions(+), 15 deletions(-)
+7c63ad0 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+d8ef551 -- tangollama -- tangollama@gmail.com
+
+ 3 files changed, 12 insertions(+), 4 deletions(-)
+01e8a13 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 29 insertions(+), 28 deletions(-)
+7694090 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 151 insertions(+)
+71d8a6a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 178 insertions(+), 49 deletions(-)
+5530ca2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 60 insertions(+), 9 deletions(-)
+617e77a -- tangollama -- tangollama@gmail.com
+
+ 2 files changed, 5 insertions(+), 40 deletions(-)
+6fb7431 -- tangollama -- tangollama@gmail.com
+
+ 13 files changed, 339 insertions(+), 256 deletions(-)
+84be677 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 24 insertions(+), 2 deletions(-)
+d58470b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 15 insertions(+), 4 deletions(-)
+d5235a4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 67 insertions(+), 83 deletions(-)
+3e052f2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 6 deletions(-)
+9e3f670 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 12 files changed, 202 insertions(+), 173 deletions(-)
+cef9ef3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 25 insertions(+), 14 deletions(-)
+0185410 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+c0da9d2 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+76b6f9e -- tangollama -- tangollama@gmail.com
+
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+36f55b5 -- Joel Glovier -- jglovier@github.com
+
+ 12 files changed, 26 insertions(+), 58 deletions(-)
+92c5466 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 3 insertions(+)
+176e29f -- Joel Glovier -- jglovier@github.com
+
+ 4 files changed, 11 insertions(+), 10 deletions(-)
+f4d48bf -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+facb2ad -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 28 insertions(+), 28 deletions(-)
+f18dc58 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 16 insertions(+), 6 deletions(-)
+a711764 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 13 insertions(+), 3 deletions(-)
+cd5b3dd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+508f18c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 6 insertions(+), 5 deletions(-)
+5324781 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 47 insertions(+), 25 deletions(-)
+400d219 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 19 insertions(+)
+a266e9c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+195cc0e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+61324a0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+ad8954d -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+7fc28e0 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+0a4af2c -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+6bfad0c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 50 insertions(+), 45 deletions(-)
+b7cd5a9 -- Joel Glovier -- jglovier@github.com
+
+ 4 files changed, 45 insertions(+), 28 deletions(-)
+aa55816 -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 15 insertions(+), 21 deletions(-)
+dee9291 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 2 deletions(-)
+a62a087 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 140 deletions(-)
+300eeb3 -- Joel Glovier -- jglovier@github.com
+
+ 5 files changed, 43 insertions(+), 32 deletions(-)
+749e0ab -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+9db76fe -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+e462a61 -- Joel Glovier -- jglovier@github.com
+
+ 7 files changed, 43 insertions(+), 34 deletions(-)
+1bba1a1 -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 20 insertions(+), 18 deletions(-)
+02916c4 -- Joel Glovier -- jglovier@github.com
+
+ 11 files changed, 46 insertions(+), 23 deletions(-)
+96b7d67 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+18c40f7 -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 12 insertions(+), 7 deletions(-)
+7bf43d7 -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 165 insertions(+), 162 deletions(-)
+453929b -- Joel Glovier -- jglovier@github.com
+
+ 7 files changed, 130 insertions(+), 172 deletions(-)
+5c172c2 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 80 deletions(-)
+a2b0b87 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 20 insertions(+), 3 deletions(-)
+c6b1705 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+16d98db -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 57 insertions(+)
+8461d38 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+a93f140 -- Joel Glovier -- jglovier@github.com
+
+ 5 files changed, 86 insertions(+), 41 deletions(-)
+27c87cb -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+6a42c5e -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 21 insertions(+), 2 deletions(-)
+ff09eec -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+7dbc977 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 31 insertions(+), 38 deletions(-)
+1607198 -- Joel Glovier -- jglovier@github.com
+
+ 2 files changed, 41 insertions(+), 38 deletions(-)
+7c35816 -- Joel Glovier -- jglovier@github.com
+
+ 5 files changed, 70 insertions(+), 70 deletions(-)
+d611918 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+92f200f -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 11 insertions(+), 12 deletions(-)
+5e5db9b -- Joel Glovier -- jglovier@github.com
+
+ 4 files changed, 20 insertions(+), 15 deletions(-)
+0be4493 -- Joel Glovier -- jglovier@github.com
+
+ 7 files changed, 600 insertions(+), 636 deletions(-)
+b01b673 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+d941833 -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 97 insertions(+), 86 deletions(-)
+9ece88d -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 121 insertions(+), 106 deletions(-)
+ad74243 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+0f00afb -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+)
+ce69ffc -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 5 insertions(+)
+d3fcebc -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+6eee80c -- Joel Glovier -- jglovier@github.com
+
+ 3 files changed, 112 insertions(+), 33 deletions(-)
+1227b10 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+b692727 -- Joel Glovier -- jglovier@github.com
+
+ 1 file changed, 1 insertion(+)
+c8959ca -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 31 insertions(+), 31 deletions(-)
+d0600fb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 29 insertions(+), 28 deletions(-)
+d816f1f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 28 insertions(+), 28 deletions(-)
+48f88db -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 123 insertions(+), 15 deletions(-)
+bf9f243 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 4 insertions(+), 2 deletions(-)
+7ca1f01 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 75 insertions(+), 82 deletions(-)
+0cbef8b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 158 insertions(+), 45 deletions(-)
+944ca3d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+54ae9bb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 28 insertions(+), 28 deletions(-)
+8e916d3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 174 insertions(+), 56 deletions(-)
+291cde4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 221 insertions(+), 219 deletions(-)
+acaf82f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+8b36f00 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+aeaa3d7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+5201f0d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+42f73e2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 121 insertions(+), 128 deletions(-)
+d0dbc94 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+5a2e6e8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 6 insertions(+), 22 deletions(-)
+228ad7b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 41383 deletions(-)
+0837fec -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 10 deletions(-)
+5c5401f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 12 deletions(-)
+43c94a0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 56 insertions(+), 6 deletions(-)
+0b0c8db -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 163 insertions(+), 38 deletions(-)
+d47677b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+de06cd0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 28 insertions(+), 28 deletions(-)
+8c0abaa -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 4 deletions(-)
+c3983e3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 37 insertions(+), 30 deletions(-)
+8261249 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 26 insertions(+), 36 deletions(-)
+9c3163c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 14 insertions(+), 8 deletions(-)
+128742d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 40 insertions(+), 58 deletions(-)
+4716eee -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 54 insertions(+), 2 deletions(-)
+7fdc9d3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 79 insertions(+), 14 deletions(-)
+21dc442 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+)
+a1ea82c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 63 insertions(+), 63 deletions(-)
+3238de7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+)
+ce3b95a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+dda1323 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 34 insertions(+), 28 deletions(-)
+532b006 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 29 insertions(+), 29 deletions(-)
+bb19195 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 32 insertions(+), 29 deletions(-)
+26968a0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 63 insertions(+), 61 deletions(-)
+85b2a56 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 66 insertions(+), 22 deletions(-)
+ff6bb61 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 187 insertions(+), 20 deletions(-)
+c7dfbde -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 6 insertions(+), 2 deletions(-)
+2aadbf4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 15 insertions(+), 1 deletion(-)
+c35ccfe -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 6 deletions(-)
+cb0cac0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 5031 insertions(+)
+c25a26b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 8 insertions(+), 2 deletions(-)
+5259bac -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 37 insertions(+), 32 deletions(-)
+510165e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+f8f324f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 194 insertions(+), 3 deletions(-)
+839e735 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+), 6 deletions(-)
+f21ffb5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+333bf3d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 11 insertions(+), 17 deletions(-)
+2edbf48 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 10 insertions(+), 6 deletions(-)
+bd6ec1a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+3b84572 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 88 insertions(+), 73 deletions(-)
+dd9605f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+557af07 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 8 deletions(-)
+3620ba6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+bf51e22 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 29 insertions(+), 25 deletions(-)
+ef4825e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 15 insertions(+), 11 deletions(-)
+b039f26 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+099fc13 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+fe0237c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 30 insertions(+), 14 deletions(-)
+8956fca -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+5022112 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 28 insertions(+), 28 deletions(-)
+b16ced0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 11 insertions(+), 2 deletions(-)
+547f256 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 16 insertions(+)
+29ed504 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 74 insertions(+), 73 deletions(-)
+f4b56bf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 13 files changed, 388 insertions(+), 316 deletions(-)
+8823968 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+)
+2247096 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 11 insertions(+), 9 deletions(-)
+1e2ed22 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 3 insertions(+)
+78a3479 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 120 insertions(+), 51 deletions(-)
+13bd206 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+cc58cbf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+213e836 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 22 insertions(+), 2 deletions(-)
+124f74a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+9a9f826 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 13 files changed, 315 insertions(+), 48 deletions(-)
+94c7a25 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+797c695 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 37 insertions(+), 36 deletions(-)
+193b934 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 7 insertions(+), 93 deletions(-)
+0d988a1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 33 insertions(+), 40 deletions(-)
+836e4dd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 268 insertions(+), 88 deletions(-)
+f848d6f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+)
+d0fa87b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 69 insertions(+), 9 deletions(-)
+3452a69 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+1425cea -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 30 insertions(+), 30 deletions(-)
+4cae2c0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 14 files changed, 206 insertions(+), 78 deletions(-)
+f884de3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 6 deletions(-)
+1d3b496 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 7 insertions(+), 1 deletion(-)
+7e93a9f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 26 insertions(+), 22 deletions(-)
+91af65a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 116 insertions(+), 2 deletions(-)
+af6986a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 16 insertions(+), 26 deletions(-)
+628a7ea -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 89 insertions(+), 13 deletions(-)
+8062d10 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+bc50d99 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 46 insertions(+), 27 deletions(-)
+16875d8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 15 insertions(+)
+5ebcc1c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 28 insertions(+), 28 deletions(-)
+fb33716 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 29 insertions(+), 28 deletions(-)
+7427ed9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 26 insertions(+), 27 deletions(-)
+9be871b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 69 insertions(+), 67 deletions(-)
+b694d04 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+3cf7c6d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+7985c2d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+362af4d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+99ef7dc -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 105 insertions(+), 223 deletions(-)
+e9a05a4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 10 insertions(+), 5 deletions(-)
+9af83fa -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 83 insertions(+), 18 deletions(-)
+3928ce3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+4cfc444 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 31 insertions(+), 30 deletions(-)
+b41dac8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+cd746c6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 26 insertions(+), 27 deletions(-)
+89ea91a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 39 insertions(+), 16 deletions(-)
+62af16a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+cd4a9c1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+279645a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+9c1d9c8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+e14bea0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 1 insertion(+), 71959 deletions(-)
+7d2d625 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 35 insertions(+), 30 deletions(-)
+6702ae0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 27 insertions(+), 35 deletions(-)
+359a36f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 61 insertions(+), 61 deletions(-)
+abdb60f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 323 insertions(+), 359 deletions(-)
+7652f0e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 23 insertions(+), 14 deletions(-)
+77d6f5d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 111 insertions(+), 101 deletions(-)
+4d927a9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+9e53c07 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+a519bac -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 5 insertions(+), 6 deletions(-)
+540676f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 10 insertions(+), 6 deletions(-)
+f60565f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 6 deletions(-)
+716ded3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 deletions(-)
+4000106 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 4 deletions(-)
+a66d36d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+789b072 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 25 insertions(+), 103 deletions(-)
+3aaf55c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+ff18211 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 717 insertions(+), 3 deletions(-)
+42219ad -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 30 insertions(+), 27 deletions(-)
+b715deb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 31 insertions(+), 29 deletions(-)
+fa2625e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 28 insertions(+), 28 deletions(-)
+466bc54 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 64 insertions(+), 27 deletions(-)
+ac3c7aa -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 43 insertions(+), 5 deletions(-)
+762393b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 37 insertions(+), 37 deletions(-)
+541c1a3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 47 insertions(+), 35 deletions(-)
+d1b9a79 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 49 insertions(+), 34 deletions(-)
+4c8dd74 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 28 insertions(+), 28 deletions(-)
+4c09df5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 31 insertions(+), 28 deletions(-)
+e531a50 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 30 insertions(+), 28 deletions(-)
+4a4aaa5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 28 insertions(+), 28 deletions(-)
+41fa54c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 32 insertions(+), 29 deletions(-)
+bfb2373 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 62 insertions(+), 61 deletions(-)
+03fc358 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 59 insertions(+), 54 deletions(-)
+8f98216 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+cd5b65b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 32 insertions(+), 28 deletions(-)
+0016efb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 76 insertions(+), 76 deletions(-)
+cd7e02e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 31 insertions(+), 13 deletions(-)
+70b0e0d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 81 insertions(+), 53 deletions(-)
+e2ac37f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 15 insertions(+), 2 deletions(-)
+25882b0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+ef12fdd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 61 insertions(+), 37 deletions(-)
+246de47 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 9 insertions(+), 4 deletions(-)
+8b9520a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 9 insertions(+), 4 deletions(-)
+d7b33d8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 32 insertions(+), 7 deletions(-)
+9d99c59 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 15 files changed, 274 insertions(+), 77 deletions(-)
+a4b2c21 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+e1947d9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 31 insertions(+), 27 deletions(-)
+27988a1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 10 files changed, 64 insertions(+), 99 deletions(-)
+8567f0d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 31 insertions(+), 29 deletions(-)
+014a829 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 15 files changed, 254 insertions(+), 69 deletions(-)
+e70f801 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 8 insertions(+)
+99aded1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+3328a4d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 36 insertions(+), 24 deletions(-)
+cb1feb1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+)
+53289d5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 271 insertions(+), 174 deletions(-)
+81f1996 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 deletions(-)
+2d54053 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 deletions(-)
+7777e37 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+48237b4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+ee7456c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 22 insertions(+), 7 deletions(-)
+40bdf5f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 104 insertions(+), 30 deletions(-)
+1c317b3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+3ebccae -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 27 insertions(+), 27 deletions(-)
+7008931 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+44173c5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 25 insertions(+), 21 deletions(-)
+5c6c932 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 58 insertions(+), 32 deletions(-)
+06cbbb1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 29 insertions(+), 28 deletions(-)
+0aee128 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 31 insertions(+), 30 deletions(-)
+2882a71 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+b80c48c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+a9be707 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 27 insertions(+), 27 deletions(-)
+9d12013 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 80 insertions(+), 24 deletions(-)
+a196dec -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 38 insertions(+), 1 deletion(-)
+63fa46e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+40f6351 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 63 insertions(+), 40 deletions(-)
+9a3c164 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 6 insertions(+), 55 deletions(-)
+1c883b8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 34 insertions(+), 27 deletions(-)
+5f90032 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 29 insertions(+), 29 deletions(-)
+0493d74 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 40 insertions(+), 39 deletions(-)
+a570546 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 12 insertions(+), 3 deletions(-)
+9dbe04b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 14 insertions(+), 2 deletions(-)
+194a446 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 37 insertions(+), 3 deletions(-)
+76aa737 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 53 insertions(+), 89 deletions(-)
+3699e42 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 193 insertions(+), 7 deletions(-)
+bc46847 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 10 insertions(+)
+ebc40b8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 147 insertions(+), 3 deletions(-)
+a38e82a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+08a220b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+)
+6498315 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 25 insertions(+), 9 deletions(-)
+25956e6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 23 insertions(+), 7 deletions(-)
+e90cf56 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+19d90c2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 130 insertions(+), 104 deletions(-)
+bf57a8d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 23 insertions(+), 16 deletions(-)
+2612512 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 28 insertions(+), 4 deletions(-)
+d60c36d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 80 insertions(+), 35 deletions(-)
+1d5cab9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 5 deletions(-)
+b19b926 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+ae32637 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+6fdd591 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 34 insertions(+), 5 deletions(-)
+f4bdce4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+a88fcec -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+f1fcd3e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 29 insertions(+), 15 deletions(-)
+e23fc68 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 7 deletions(-)
+ae44be0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+98b97f5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 13 insertions(+), 13 deletions(-)
+bb3c71d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 308 insertions(+), 97 deletions(-)
+044b03b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 6 insertions(+), 7 deletions(-)
+1500dc7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 1 insertion(+), 7 deletions(-)
+91bc3d1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 42 insertions(+), 38 deletions(-)
+71fffd9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+3560207 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 12 insertions(+)
+baab0d4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+3ca977e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+4c48e79 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 13 insertions(+), 37 deletions(-)
+85b9e48 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 35 insertions(+), 29 deletions(-)
+0c5490b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 13 deletions(-)
+0795c0a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 48 insertions(+), 14 deletions(-)
+cfc03ba -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 29 insertions(+)
+6fc7d34 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+a6ef41e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+e217f9c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+fdb65cd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 17 insertions(+), 20 deletions(-)
+44e9eda -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 23 insertions(+), 20 deletions(-)
+7e097b7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+1c8ec5e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+)
+2dec1ee -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 44 insertions(+), 15 deletions(-)
+ab23b03 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 deletions(-)
+603fc31 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 32 files changed, 305 insertions(+), 7 deletions(-)
+7858081 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 30 insertions(+), 40 deletions(-)
+0ea2fca -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 11 files changed, 16 insertions(+), 16 deletions(-)
+0d84fe8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 24 insertions(+), 18 deletions(-)
+8ce6fbb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 46 insertions(+), 42 deletions(-)
+9b89376 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 459 insertions(+), 194 deletions(-)
+f521c49 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 51 insertions(+), 33 deletions(-)
+eb3cc65 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 18 insertions(+), 10 deletions(-)
+63b8cc2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 17 files changed, 258 insertions(+), 72 deletions(-)
+12d52d3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+39990b3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 1 deletion(-)
+8a5d9cf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 96 insertions(+), 44 deletions(-)
+ad9202b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 5 insertions(+), 5 deletions(-)
+8c2590d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 22 insertions(+), 6 deletions(-)
+9b25ab6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 75 insertions(+), 19 deletions(-)
+3a8bbdf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 16 files changed, 450 insertions(+), 114 deletions(-)
+c5a2851 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 22 insertions(+), 2 deletions(-)
+920b5f0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 16 insertions(+), 15 deletions(-)
+70b35f3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+)
+171f569 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+16909bb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+c1d3f77 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 127 insertions(+), 47 deletions(-)
+8bb1eda -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 4 deletions(-)
+dc685f4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 66 insertions(+), 28 deletions(-)
+0ca5149 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 8 insertions(+), 8 deletions(-)
+cba78c2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 80 insertions(+), 2 deletions(-)
+e5ba2e8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 62 insertions(+), 24 deletions(-)
+21e8989 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 41 insertions(+), 18 deletions(-)
+df836f8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 191 insertions(+), 22 deletions(-)
+8d9a8a6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 deletions(-)
+53c12c3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 201 insertions(+), 54 deletions(-)
+7aa5d9b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 15 insertions(+), 2 deletions(-)
+10b2a26 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 29 insertions(+), 6 deletions(-)
+8de82c9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 34 insertions(+), 4 deletions(-)
+4c92d51 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 113 insertions(+), 116 deletions(-)
+d47f63d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 35 insertions(+), 23 deletions(-)
+82bcd49 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 20 files changed, 238 insertions(+), 197 deletions(-)
+77f613c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 deletions(-)
+b7ba6d0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+ed184f0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 35 deletions(-)
+580459e -- tangollama -- tangollama@gmail.com
+
+ 10 files changed, 115 insertions(+), 15 deletions(-)
+1777c6d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 22 insertions(+), 22 deletions(-)
+1e1b5d6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 12 insertions(+), 3 deletions(-)
+691a432 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 6 insertions(+), 4 deletions(-)
+0605996 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 9 insertions(+), 9 deletions(-)
+ad53269 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 21 insertions(+), 30 deletions(-)
+706c78a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 24 deletions(-)
+80eb5b1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+)
+5ccb9f9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+e1ad739 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+9598b74 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 96 insertions(+), 23 deletions(-)
+29c498b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 13 files changed, 313 insertions(+), 2 deletions(-)
+fca6bb7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+0012639 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 32 insertions(+), 18 deletions(-)
+6b1ef46 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+3dd9796 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 25 insertions(+), 30 deletions(-)
+f9ceabf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 88 insertions(+), 78 deletions(-)
+05fc7e4 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 deletions(-)
+d109745 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 48 insertions(+), 28 deletions(-)
+63e76fa -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 59 insertions(+), 55 deletions(-)
+c4d2d73 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 11 insertions(+), 2 deletions(-)
+40df8f8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 deletion(-)
+b4ec494 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 33 insertions(+)
+3ff23d7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+a2a7527 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 79 insertions(+), 62 deletions(-)
+20c8348 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 12 insertions(+), 5 deletions(-)
+d3d957f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 11 insertions(+), 7 deletions(-)
+50d8b0b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 10 insertions(+), 9 deletions(-)
+b55b571 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 8 insertions(+), 5 deletions(-)
+085aee1 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 24 files changed, 119 insertions(+), 88 deletions(-)
+23ea247 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 54 insertions(+), 30 deletions(-)
+86fc809 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 21 insertions(+), 14 deletions(-)
+dc7bc1f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 112 insertions(+), 10 deletions(-)
+21351d2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+7293132 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+4f6e854 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+ac32993 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 60 insertions(+), 32 deletions(-)
+d9fa081 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+0471c9f -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 22 insertions(+), 22 deletions(-)
+6b4a2eb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+09ecd25 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+675a24e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 40 insertions(+), 34 deletions(-)
+2019345 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 9 files changed, 79 insertions(+), 78 deletions(-)
+b2ff89c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 24 insertions(+), 2 deletions(-)
+d7749d0 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 17 insertions(+)
+15439c7 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+e95c376 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+092151a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 56 insertions(+), 42 deletions(-)
+fdfd8d8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 10 insertions(+), 10 deletions(-)
+9e5d71c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 deletions(-)
+54ad399 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+5a2ecd7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 deletions(-)
+8550ffd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+1cdb9c5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 24 insertions(+), 9 deletions(-)
+992e5bb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 10 insertions(+), 7 deletions(-)
+7c79128 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 57 insertions(+), 1 deletion(-)
+17857b3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+5d0daa7 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 32 insertions(+), 7 deletions(-)
+26b4131 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 18 files changed, 202 insertions(+), 67 deletions(-)
+c993bdf -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 13 insertions(+), 3 deletions(-)
+1016f3d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 55 insertions(+), 46 deletions(-)
+26d38ee -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 3 insertions(+)
+b8de8b6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 19 insertions(+), 13 deletions(-)
+472c756 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 8 insertions(+), 3 deletions(-)
+0094792 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 62 insertions(+), 24 deletions(-)
+66aae47 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+331b488 -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+c36a0be -- tangollama -- tangollama@gmail.com
+
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+cbf945d -- tangollama -- tangollama@gmail.com
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+622dc69 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 18 insertions(+), 28 deletions(-)
+9be59b6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 3 insertions(+), 46 deletions(-)
+dae35cd -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 81 insertions(+), 85 deletions(-)
+eb879ac -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 23 files changed, 659 insertions(+), 388 deletions(-)
+895fdb2 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 58 insertions(+), 11 deletions(-)
+a130204 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 33 insertions(+), 8 deletions(-)
+65d23e9 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+)
+166c16d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+)
+8401164 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 7 insertions(+), 6 deletions(-)
+356cdd8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 716 files changed, 300096 deletions(-)
+f636af6 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 19 insertions(+)
+c113330 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 22 insertions(+), 13 deletions(-)
+31e2e53 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 87 insertions(+), 87 deletions(-)
+a1b65b5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 28 insertions(+), 29 deletions(-)
+22bbeb5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+2ce710a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 14 insertions(+), 5 deletions(-)
+77cef12 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 8 files changed, 8 insertions(+)
+5650904 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 5 insertions(+), 2 deletions(-)
+5cb0f80 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 53 insertions(+), 41 deletions(-)
+87ab65b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 8 insertions(+), 5 deletions(-)
+305c783 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 deletions(-)
+b5028af -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 16 files changed, 194 insertions(+), 104 deletions(-)
+2a186c3 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 40 files changed, 25073 deletions(-)
+bbcd95c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 109 files changed, 121 insertions(+), 12 deletions(-)
+4df5c81 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 8 deletions(-)
+35a9ba8 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 59 insertions(+)
+1657301 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 37 insertions(+), 6 deletions(-)
+0cb331e -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+c68e927 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 22 insertions(+), 22 deletions(-)
+a60267b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 19 insertions(+), 6 deletions(-)
+df8f9eb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 34 insertions(+), 6 deletions(-)
+5570533 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 22 insertions(+), 22 deletions(-)
+a378b7c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 36 insertions(+), 25 deletions(-)
+0bdfde5 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 5 files changed, 122 insertions(+), 1 deletion(-)
+a1c380a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+5bc21b0 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 22 insertions(+), 22 deletions(-)
+26b250d -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+4da0ead -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+)
+1a9a418 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 6 files changed, 35 insertions(+), 34 deletions(-)
+eb8a641 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 3 files changed, 68 insertions(+), 79 deletions(-)
+791cf82 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 104 insertions(+), 14 deletions(-)
+99bff31 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 70 insertions(+), 23 deletions(-)
+65d392c -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 36 insertions(+), 22 deletions(-)
+461f38b -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 2 files changed, 4 insertions(+), 10 deletions(-)
+b847493 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+e584d24 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 18 insertions(+), 3 deletions(-)
+e439d3a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 7 files changed, 363 insertions(+), 71 deletions(-)
+543ab0a -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+caa7320 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 97264 deletions(-)
+bd90c64 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 31 insertions(+), 4 deletions(-)
+e9e8d88 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+1185ebb -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 4 files changed, 21 insertions(+), 21 deletions(-)
+104c191 -- John Kleinschmidt -- kleinschmidtorama@gmail.com
+
+ 1 file changed, 4 insertions(+), 6 deletions(-)
